@@ -25,10 +25,3 @@ done < archivo.txt
 echo "La palabra mas larga tiene " $MASLARGA " letras"
 echo "La palabra mas corta tiene " $MASCORTA " letras"
 echo "El promedio de letras por palabras es " $PROMEDIO
-#wc   [ opciones ]    [ archivo ... ] 
-#Principales opciones:  
-#-l    contar el número de líneas. 
-#-w    contar el número de palabras. 
-#-c    contar el número de bytes. 
-#-m    contar el número de caracteres. 
-#-C    Idéntico a -m.  
